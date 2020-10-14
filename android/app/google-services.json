@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "961026351213",
+    "firebase_url": "https://flash-chat-cm002.firebaseio.com",
+    "project_id": "flash-chat-cm002",
+    "storage_bucket": "flash-chat-cm002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961026351213:android:badfe3d80e3095ee569f64",
+        "android_client_info": {
+          "package_name": "com.conjuringmidas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961026351213-5rosg7uvums451d1kvn5tunql8cmitkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpf9uuUfRGbryGBanX13n-3oC1F3e7WGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961026351213-5rosg7uvums451d1kvn5tunql8cmitkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
